@@ -92,6 +92,6 @@ Task number 11 is booking approved
 http://localhost:4000/booking_status/5f18c96e91fbb1320de5b8d2
 ```
 ## Notes:
-1- static data saved in json files in db
-2- static data updated once a day at 00:00
-3- booking the trips in task 6, is for two passengers that I added the params hardcoded in real life i will take it from the user
+1.  static data saved in json files in db
+2.  static data updated once a day at 00:00
+3.  booking the trips in task 6, is for two passengers that I added the params hardcoded in real life i will take it from the user
